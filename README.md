@@ -1,2 +1,0 @@
-# anoymoussy
-bot
